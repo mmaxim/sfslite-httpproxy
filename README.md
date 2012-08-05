@@ -10,7 +10,7 @@ In order to build this project, you first need to build and install sfslite to i
 
 * make
 
-If you do not have clang, then simply issue this command:
+If you do not have clang, then issue this command:
 
 * make CXX=g++
 
